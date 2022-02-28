@@ -8,7 +8,7 @@ Asked.kr 사이트 내의 유저의 팔로워 수를 늘려줍니다
 
 ## Exception
 number.txt에 넣을 유저의 고유id를 모르겠다면 Issues 탭을 확인해주세요   
-바로가기 - https://github.com/Hit2M/Asked-Bot/issues
+바로가기 - https://github.com/Hit2M/Asked-Bot/issues/2
 
 ## Image
 
