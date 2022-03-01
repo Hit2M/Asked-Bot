@@ -13,3 +13,7 @@ number.txt에 넣을 유저의 고유id를 모르겠다면 Issues 탭을 확인�
 ## Image
 
 ![image](https://user-images.githubusercontent.com/72373048/156022655-ac71eb53-aa87-464c-a226-07c667685068.png)
+
+##License
+Asked-Bot은 MIT 라이센스를 따릅니다
+`License` 파일을 확인해주세요
